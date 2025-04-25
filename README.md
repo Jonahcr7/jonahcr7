@@ -8,7 +8,7 @@ I'm a graduate Systems Engineering at Tecnológico Nacional de México. JavaScri
 
 * **I'm interested in web development and data analytics.**
 -  🌱 I’m currently learning ...
-  - R
+  - Java with Spring
   - React js
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 🏃🏾‍♂‍➡ I love to run, 🧬 do exercise at the gym , 🎵 listen to music, and sleep.
