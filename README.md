@@ -7,7 +7,7 @@
 I'm a graduate Systems Engineering at Tecnológico Nacional de México. I love this world, I'm always learnig something new.
 
 * **I'm interested in web development and data analytics.**
--  🌱 I’m currently learning ...
+-  🌱 I’m currently wworking on ...
   - Java with Spring
   - PostgreSQL
   - JavaScript
